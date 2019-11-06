@@ -2,8 +2,9 @@
 
 ## TensorFlow In Practice by deeplearning.ai
 Introduction to TensorFlow
-* [Hello World](https://github.com/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c1e01_hello_world.ipynb): simple house price prediction
-* [Beyond Hello World](https://github.com/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c1e02_fashion_MNIST.ipynb): Fashion MNIST with Neural Network
+* [simple house price prediction](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c1e01_house_price.ipynb)
+* [fashion mnist with simple neural network](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c1e02_fashion_MNIST.ipynb)
+* [basic image convolution and pooling](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c1e03_basic_convolution.ipynb)
 
 Convolutional Neural Networks in TensorFlow
 
