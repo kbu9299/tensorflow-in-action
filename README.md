@@ -16,7 +16,9 @@ Introduction to TensorFlow
 * [fashion mnist with simple neural network](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c01e02_fashion_MNIST.ipynb)
 * [basic image convolution and pooling](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c01e03_basic_convolution.ipynb)
 * [neural network with convoluions](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c01e04_neural_network_with_convolutions.ipynb)
-
+* [binary classification: horse or human](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c1e05_binary_classification_horse_or_human.ipynb)
+  * all images are synthesized with computer graphics.
+  * ImageDataGenerator for managing dataset and feeding them into training pipeline in a systematic way. 
 
 Convolutional Neural Networks in TensorFlow
 
