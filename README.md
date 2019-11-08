@@ -1,5 +1,15 @@
 # TensorFlow 2 in Action
 
+Wokring Environment
+
+```bash
+conda create --name tf2 python=3.7
+conda activate tf2
+conda install pip numpy scipy pandas matplotlib ipython jupyter seaborn pillow h5py
+pip install tensorflow-gpu==2.0 gdown
+```
+
+
 ## TensorFlow In Practice by deeplearning.ai
 Introduction to TensorFlow
 * [simple house price prediction](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c01e01_house_price.ipynb)
