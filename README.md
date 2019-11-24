@@ -48,7 +48,17 @@ Natural Language Processing in TensorFlow
 * [Exploring Overfitting](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c03_natural_language_processing/c3w3e2_excercise_exploring_overfitting.ipynb)
 * [Shapespeare](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c03_natural_language_processing/c3w4e2_excercise_shakespeare.ipynb)
 
-
-
-
 Sequences, Time Series and Prediction
+* [Introduction To Time Series](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w1e1_intro_to_time_series.ipynb)
+* [Statistical Forecasting](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w1e2_statistical_forecasting.ipynb)
+* [Synthetic Data Series](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w1e3_excercise_synthetic_data_series.ipynb)
+* [Windowed Dataset](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w2e1_windowed_dataset.ipynb)
+* [Single Layer Neural Network](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w2e2_single_layer_neural_network.ipynb)
+* [DNN](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w2e3_dnn.ipynb)
+* [Excercise](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w2e4_excercise.ipynb)
+* [RNN](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w3e1_rnn.ipynb)
+* [LSTM](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w3e2_lstm.ipynb)
+* [Excercise](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w3e3_exercise.ipynb)
+* [LSTM](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w4e1_lstm.ipynb)
+* [Sunspot](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w4e2_sunspot_a.ipynb)
+* [Daily Temperature](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c04_time_series_prediction/c4w4e3_excercise_temperature.ipynb)
