@@ -21,6 +21,7 @@ Introduction to TensorFlow
   * ImageDataGenerator for managing dataset and feeding them into training pipeline in a systematic way. 
 * [horse or human with validtation](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c01e06_horse_or_human_with_validation.ipynb)
   * add the validation dataset in the training process.
+* [happy or sad](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c01e07_happy_or_sad.ipynb)
 
 Convolutional Neural Networks in TensorFlow
 
