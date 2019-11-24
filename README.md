@@ -24,6 +24,16 @@ Introduction to TensorFlow
 * [happy or sad](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c01e07_happy_or_sad.ipynb)
 
 Convolutional Neural Networks in TensorFlow
+* [Cats or Dogs - Filtered](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0101_cats_or_dogs_filtered.ipynb)
+* [Cats or Dogs - Full](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0102_cats_or_dogs_full.ipynb)
+* [Cats or Dogs - Augmented](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0201_cats_or_dogs_augmentation.ipynb)
+* [Horse or Human -Augmentation](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0202_horse_or_human_with_augmentation.ipynb)
+* [Horse or Human - InceptionV3](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0203_excercise.ipynb)
+* [Transfer Learning](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0301_transfer_learning.ipynb)
+* [Transfer Learning: Human or Horse](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0302_exercise_humand_transfer_lerarning.ipynb)
+* [Rock Paper Scissor](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0401_rock_paper_scissors.ipynb)
+* [Sign Lanugage Classifier](https://nbviewer.jupyter.org/github/kbu9299/tensorflow-in-action/blob/master/tensorflow-in-practice/c02_covolutional_neural_network/w0402_excercise_sign_language_classifier.ipynb)
+
 
 Natural Language Processing in TensorFlow
 
